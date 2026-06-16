@@ -219,3 +219,4 @@ main().catch((err) => {
   process.exit(1)
 })
 // R2 build integration
+// R3: user re-run - exports registration and cleanup
